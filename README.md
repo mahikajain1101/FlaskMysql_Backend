@@ -16,6 +16,7 @@
 - Create a database with table called users with columns - id, name and email
 - Change the Mysql credentials and database name in the code.
 - Login with username and password as "test" and copy the access token to header.
+- Run python app.py and open Postman.
 
 
 
